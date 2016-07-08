@@ -1,0 +1,17 @@
+{
+    "name": "koodilabs/socialreg",
+    "description": "Social Registration Feature.",
+    "authors": [
+        {
+            "name": "Lorenzo Yee",
+            "email": "vhezyrenz@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "KoodiLabs\\SocialReg\\": "src/"
+        }
+    }
+}
